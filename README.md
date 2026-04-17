@@ -55,7 +55,7 @@ pip install -r requirements.txt
 ```
 
 ---
-
+```
 ### 3️⃣ Setup Environment Variables
 
 Create a `.env` file in the root directory:
