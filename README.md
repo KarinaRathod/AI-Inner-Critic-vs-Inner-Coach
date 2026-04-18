@@ -62,7 +62,7 @@ Create a `.env` file in the root directory:
 ```env id="env-inner-critic"
 GOOGLE_API_KEY=your_gemini_api_key
 ```
-
+---
 ### 4️⃣ Run the Application
 
 ```bash id="run-inner-critic"
