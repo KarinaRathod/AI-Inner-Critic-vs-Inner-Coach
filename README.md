@@ -11,7 +11,7 @@ This application simulates internal cognitive dialogue:
 
 - 😈 **Inner Critic** → Highlights doubts, fears, and negative self-talk  
 - 😇 **Inner Coach** → Provides rational, supportive, and constructive thinking  
-- ⚖️ **Balanced Insight** → Combines both perspectives into a practical takeaway  
+- ⚖️ **Balanced Insight** → Combines both perspectives into a practical takeaway
 
 The goal is to improve **self-awareness, emotional clarity, and decision-making**.
 
